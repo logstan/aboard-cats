@@ -1,0 +1,32 @@
+# Node.js
+node_modules/
+
+# Python
+venv/
+__pycache__/
+
+# C#
+bin/
+obj/
+
+# Rust
+target/
+
+# IDEs
+.vscode/
+.idea/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Environment files
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
