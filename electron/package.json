@@ -1,0 +1,1 @@
+{"name": "gaming-viewer", "version": "1.0.0", "main": "main.js", "renderer": "renderer.js", "scripts": {"start": "electron ."}, "dependencies": {"electron": ">=12.0.0"}}
